@@ -8,5 +8,10 @@
 ![image](https://github.com/Thein-Naing/LeetCode/assets/117463446/bf596b46-ded9-4d42-afe9-8cf07ae3c485)
 
 
+`[1431]kidsWithCandies`
+![image](https://github.com/Thein-Naing/LeetCode/assets/117463446/78aa1557-8081-4ec1-850d-5108d4d5853b)
+
+
+
 
 
