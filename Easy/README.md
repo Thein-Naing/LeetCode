@@ -1,4 +1,8 @@
 # LeetCode
-9. Palindrome Number
-10. ![image](https://github.com/Thein-Naing/LeetCode/assets/117463446/53263362-343d-4575-b694-d8a5d35a33e7)
+`[1]. Two Sum`
+      ![image](https://github.com/Thein-Naing/LeetCode/assets/117463446/fdb5f2a3-d111-4831-9be2-132ddee87e6b)
+
+`[9]. Palindrome Number`
+     ![image](https://github.com/Thein-Naing/LeetCode/assets/117463446/53263362-343d-4575-b694-d8a5d35a33e7)
+
 
