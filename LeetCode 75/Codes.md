@@ -15,6 +15,11 @@
 `[283]Moving Zeroes`
 ![image](https://github.com/Thein-Naing/LeetCode/assets/117463446/d8d8101a-032c-49ae-b8e2-4fb8199391aa)
 
+`[392]. Is Subsequence`
+![image](https://github.com/Thein-Naing/LeetCode/assets/117463446/dff01b56-6b6a-41aa-ae96-cd63aa2963fd)
+
+
+
 
 
 
