@@ -8,8 +8,13 @@
 ![image](https://github.com/Thein-Naing/LeetCode/assets/117463446/bf596b46-ded9-4d42-afe9-8cf07ae3c485)
 
 
-`[1431]kidsWithCandies`
+`[1431]kids With Candies`
 ![image](https://github.com/Thein-Naing/LeetCode/assets/117463446/78aa1557-8081-4ec1-850d-5108d4d5853b)
+
+
+`[283]Moving Zeroes`
+![image](https://github.com/Thein-Naing/LeetCode/assets/117463446/d8d8101a-032c-49ae-b8e2-4fb8199391aa)
+
 
 
 
