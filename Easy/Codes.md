@@ -8,6 +8,10 @@
 `[20]`
 ![image](https://github.com/Thein-Naing/LeetCode/assets/117463446/b1208d93-333b-4da6-9f02-140414c18090)
 
+`[58]Last Of Last Word`
+![image](https://github.com/Thein-Naing/LeetCode/assets/117463446/e79e367b-8db4-457f-95d2-f84997059a84)
+
+
 
 
 
