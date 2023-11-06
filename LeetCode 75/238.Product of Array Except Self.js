@@ -33,7 +33,7 @@ var productExceptSelf = function(nums) {
     });
 
   
-// Alternative Solution.
+// Alternate Solution.
 //       let stack = [];    
 //       for (let i = 0; i < nums.length; i++) {
 //             let product = 1;
