@@ -18,6 +18,10 @@
 `[392]. Is Subsequence`
 ![image](https://github.com/Thein-Naing/LeetCode/assets/117463446/dff01b56-6b6a-41aa-ae96-cd63aa2963fd)
 
+`[605]CanPlaceFlowers`
+![image](https://github.com/Thein-Naing/LeetCode/assets/117463446/c146911f-f0b8-43c7-ba79-092d0efad12b)
+
+
 
 
 
