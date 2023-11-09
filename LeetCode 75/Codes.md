@@ -24,8 +24,12 @@
 `[238]ProductExceptSelf`
 ![image](https://github.com/Thein-Naing/LeetCode/assets/117463446/68b5da31-0706-43fe-a3bc-0360c5f499dd)
 
-`[345]345. Reverse Vowels of a String`
+`[345].Reverse Vowels of a String`
 ![image](https://github.com/Thein-Naing/LeetCode/assets/117463446/549f3764-ac3d-4cb1-934c-5df45a6ca8cb)
+
+`[2215].Find the Difference of Two Arrays`
+![image](https://github.com/Thein-Naing/LeetCode/assets/117463446/7e5c33b7-0263-4fa2-a4c0-6fd0f6e8272d)
+
 
 
 
