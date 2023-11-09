@@ -18,4 +18,13 @@
 
 
 
+`Basic Aggregate Functions`
+
+`[1251]. Average Selling Price`
+![image](https://github.com/Thein-Naing/LeetCode/assets/117463446/df81f8d9-74a0-4c13-b55c-3530973f17a1)
+
+
+
+
+
 
