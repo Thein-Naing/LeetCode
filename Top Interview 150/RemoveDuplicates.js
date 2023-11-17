@@ -50,7 +50,7 @@ var removeDuplicates = function(nums) {
        if (nums.length < 2) {                               // 2. edge case
          return nums.length
       }
-      for (let i = 0; i < nums.length; i++) {
+      for (let i = 0; i < nums.length; i++) {               // 3. Iterate through given nums to check
        if (i < nums.length - 1 && nums[i] == nums[i + 1]) { 
             continue;                                      
       } 
