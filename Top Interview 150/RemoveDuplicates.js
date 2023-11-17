@@ -46,7 +46,7 @@ nums is sorted in non-decreasing order.   */
  * @return {number}
  */
 var removeDuplicates = function(nums) {
-        let count = 0;
+        let count = 0;                                      // Initial state of count shall be 0.
        if (nums.length < 2) {                               // 2. edge case
          return nums.length
       }
