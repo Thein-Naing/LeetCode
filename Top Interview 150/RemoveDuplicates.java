@@ -41,22 +41,23 @@ nums is sorted in non-decreasing order.   */
         From Given Statement: all the duplicate elements are adjacent to each other.
         1. So if current element is equal to next element;  skip the next element and
         continue this step as long as encountered duplicates        */
+
 class Solution {
     public int removeDuplicates(int[] nums) {
-      int count = 0;
-       if (nums.length < 2) {   // 2. edge case
+      int count = 0;                                          // 1. Initial state of count shall be 0.
+       if (nums.length < 2) {                                 // 2. edge case
          return nums.length;
-      }  // 3. Iterate through given nums to check
-         for (int i = 0; i < nums.length ; i++) {         
+      }                                                      
+         for (int i = 0; i < nums.length ; i++) {            // 3. Iterate through given nums to check
       
        if (i < nums.length - 1 && nums[i] == nums[i + 1]) { 
             continue;                                      
       } 
-       nums[count] = nums[i];   // 4. update the array in place                   
-       count++;                 // 5 .update count;
+       nums[count] = nums[i];                               // 4. update the array in place                   
+       count++;                                             // 5 .update count;
     
   }
-  return count;                // 6. Return result.
+  return count;                                             // 6. Return result.
         
     }
 }
